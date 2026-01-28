@@ -1,4 +1,3 @@
-```markdown
 # MongoDB Learning Space 🧠📦
 
 A structured repository documenting my journey toward **production-level MongoDB mastery** through intentional, hands-on practice.
@@ -131,6 +130,4 @@ This repository is maintained for personal learning and professional development
 ---
 
 **Built with intention. Maintained with discipline. Designed for mastery.**
-```
-
 ---
